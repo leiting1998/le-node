@@ -1,0 +1,19 @@
+{
+  "name": "jwtstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leiting",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.3.0",
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-jwt": "^3.3.2",
+    "koa-router": "^7.4.0"
+  }
+}
